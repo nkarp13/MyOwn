@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "utility/stl/rotateAtOriginSTL",
+		"source" : "utility/stl/rotateAtOriginSTL"
+	}
+}

@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/couplings/couplings"
+  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/couplings/couplings.pdb"
+  "CMakeFiles/couplings.dir/coupleVelocityField.cpp.o"
+  "CMakeFiles/couplings.dir/coupleVelocityField.cpp.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/couplings.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

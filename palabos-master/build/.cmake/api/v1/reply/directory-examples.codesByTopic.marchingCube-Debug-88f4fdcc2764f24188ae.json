@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "examples/codesByTopic/marchingCube",
+		"source" : "examples/codesByTopic/marchingCube"
+	}
+}

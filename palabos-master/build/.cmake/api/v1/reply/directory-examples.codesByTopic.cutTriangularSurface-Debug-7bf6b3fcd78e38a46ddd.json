@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "examples/codesByTopic/cutTriangularSurface",
+		"source" : "examples/codesByTopic/cutTriangularSurface"
+	}
+}

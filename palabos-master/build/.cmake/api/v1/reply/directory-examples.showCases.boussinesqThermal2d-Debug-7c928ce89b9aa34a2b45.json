@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "examples/showCases/boussinesqThermal2d",
+		"source" : "examples/showCases/boussinesqThermal2d"
+	}
+}

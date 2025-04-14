@@ -1,0 +1,476 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindMPI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindHDF5.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/lib/cmake/hdf5/hdf5-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/lib/cmake/hdf5/hdf5-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/lib/cmake/hdf5/hdf5-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/opt/homebrew/lib/cmake/hdf5/hdf5-targets-release.cmake"
+		},
+		{
+			"path" : "examples/benchmarks/cavity3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/asinariDynamics/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/bounceBack/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/boundaryCondition/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/complexNumbers/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/copying/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/couplings/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/cutTriangularSurface/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/d3q13/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/dataAnalysis/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/dotList/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/dynamicsInfo/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/externalMacroscopicVariables/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/inamuroIBM2D/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/io/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/linearAlgebra/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/marchingCube/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/multiBlock/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/navierStokesModels/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/particlesInTube/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/randomNumbers/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/reparallelize/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/scalarField/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/shanChenMultiPhase/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/smagorinskyModel/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/transientStatistics/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/unsignedTypes/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/userInput/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/aneurysm_xdmf_hdf5_output/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/codesByTopic/TRTdynamics/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/aneurysm/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/bloodFlowDefoBodies/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/boussinesqThermal2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/boussinesqThermal3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/carreauPoiseuille/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/cavity2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/cavity3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/collidingBubbles3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/cylinder2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/cylinder3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/dsl2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/dsl3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/externalFlowAroundObstacle/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/generalExternalFlow/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/gridRefinement2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/gridRefinement3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/isothermCoVo2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/heatedObjectInChannel/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/movingWall/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/multiComponent2d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/multiComponent3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/partialBounceBack/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/particlesInCone/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/poiseuille/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/rectangularChannel3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/rectangularChannelWithCylinder3d/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/settlingDrivenConvection/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/vofMultiPhase/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/showCases/womersley/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial/permeability/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial/tutorial_1/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial/tutorial_2/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/cutSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/mergeSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/refineByAreaSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/refineSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/reverseOrientationSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/revoxelize/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/rotateAtOriginSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/scaleDirectionallySTLraw/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/scaleSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/scaleSTLraw/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/shiftSTLraw/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/stlCheck/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/stlInfo/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/stlProjectedArea/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/stlShadowArea/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/stlToHtml/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/stlToX3D/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/toAsciiSTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/stl/toBinarySTL/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/vtk/plb2vtk2D/CMakeLists.txt"
+		},
+		{
+			"path" : "utility/vtk/plb2vtk3D/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/nikitakarpinskij/Downloads/palabos-master/build",
+		"source" : "/Users/nikitakarpinskij/Downloads/palabos-master"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

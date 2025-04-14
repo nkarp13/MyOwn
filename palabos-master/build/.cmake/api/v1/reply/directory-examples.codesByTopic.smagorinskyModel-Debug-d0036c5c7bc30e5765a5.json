@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "examples/codesByTopic/smagorinskyModel",
+		"source" : "examples/codesByTopic/smagorinskyModel"
+	}
+}

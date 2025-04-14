@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "examples/showCases/heatedObjectInChannel",
+		"source" : "examples/showCases/heatedObjectInChannel"
+	}
+}

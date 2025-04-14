@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "examples/showCases/collidingBubbles3d",
+		"source" : "examples/showCases/collidingBubbles3d"
+	}
+}
