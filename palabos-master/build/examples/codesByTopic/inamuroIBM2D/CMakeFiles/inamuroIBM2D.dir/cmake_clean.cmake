@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/inamuroIBM2D/inamuroIBM2D"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/inamuroIBM2D/inamuroIBM2D.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/inamuroIBM2D/inamuroIBM2D"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/inamuroIBM2D/inamuroIBM2D.pdb"
   "CMakeFiles/inamuroIBM2D.dir/inamuroIBM2D.cpp.o"
   "CMakeFiles/inamuroIBM2D.dir/inamuroIBM2D.cpp.o.d"
 )

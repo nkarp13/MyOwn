@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/heatedObjectInChannel/heatedObjectInChannel.cpp" "examples/showCases/heatedObjectInChannel/CMakeFiles/heatedObjectInChannel.dir/heatedObjectInChannel.cpp.o" "gcc" "examples/showCases/heatedObjectInChannel/CMakeFiles/heatedObjectInChannel.dir/heatedObjectInChannel.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/heatedObjectInChannel/heatedObjectInChannel.cpp" "examples/showCases/heatedObjectInChannel/CMakeFiles/heatedObjectInChannel.dir/heatedObjectInChannel.cpp.o" "gcc" "examples/showCases/heatedObjectInChannel/CMakeFiles/heatedObjectInChannel.dir/heatedObjectInChannel.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

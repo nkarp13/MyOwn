@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/rotateAtOriginSTL/rotateAtOriginSTL"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/rotateAtOriginSTL/rotateAtOriginSTL.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/rotateAtOriginSTL/rotateAtOriginSTL"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/rotateAtOriginSTL/rotateAtOriginSTL.pdb"
   "CMakeFiles/rotateAtOriginSTL.dir/rotateAtOriginSTL.cpp.o"
   "CMakeFiles/rotateAtOriginSTL.dir/rotateAtOriginSTL.cpp.o.d"
 )

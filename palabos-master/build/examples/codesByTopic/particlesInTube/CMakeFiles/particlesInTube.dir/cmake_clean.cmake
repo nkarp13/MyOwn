@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/particlesInTube/particlesInTube"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/particlesInTube/particlesInTube.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/particlesInTube/particlesInTube"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/particlesInTube/particlesInTube.pdb"
   "CMakeFiles/particlesInTube.dir/particlesInTube.cpp.o"
   "CMakeFiles/particlesInTube.dir/particlesInTube.cpp.o.d"
 )

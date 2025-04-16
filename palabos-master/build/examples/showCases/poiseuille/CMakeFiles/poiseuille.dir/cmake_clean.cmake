@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/poiseuille/poiseuille"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/poiseuille/poiseuille.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/poiseuille/poiseuille"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/poiseuille/poiseuille.pdb"
   "CMakeFiles/poiseuille.dir/poiseuille.cpp.o"
   "CMakeFiles/poiseuille.dir/poiseuille.cpp.o.d"
 )

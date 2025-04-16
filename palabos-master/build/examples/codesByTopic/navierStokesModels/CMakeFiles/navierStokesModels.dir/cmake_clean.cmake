@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/navierStokesModels/navierStokesModels"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/navierStokesModels/navierStokesModels.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/navierStokesModels/navierStokesModels"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/navierStokesModels/navierStokesModels.pdb"
   "CMakeFiles/navierStokesModels.dir/allModels2d.cpp.o"
   "CMakeFiles/navierStokesModels.dir/allModels2d.cpp.o.d"
 )

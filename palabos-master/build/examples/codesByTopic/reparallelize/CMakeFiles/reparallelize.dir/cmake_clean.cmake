@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/reparallelize/reparallelize"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/reparallelize/reparallelize.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/reparallelize/reparallelize"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/reparallelize/reparallelize.pdb"
   "CMakeFiles/reparallelize.dir/cavity3d.cpp.o"
   "CMakeFiles/reparallelize.dir/cavity3d.cpp.o.d"
 )

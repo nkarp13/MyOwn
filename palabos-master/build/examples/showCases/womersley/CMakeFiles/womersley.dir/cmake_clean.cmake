@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/womersley/womersley"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/womersley/womersley.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/womersley/womersley"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/womersley/womersley.pdb"
   "CMakeFiles/womersley.dir/womersley.cpp.o"
   "CMakeFiles/womersley.dir/womersley.cpp.o.d"
 )

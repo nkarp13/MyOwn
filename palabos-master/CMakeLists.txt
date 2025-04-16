@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 
 
 find_program(CCACHE_PROGRAM ccache)
@@ -189,7 +189,7 @@ if(BUILD_HDF5)
 else()
     message("Without HDF5 enabled aneurysm_xdmf_hdf5_output cannot be compiled!")
 endif()
-add_subdirectory(examples/codesByTopic/TRTdynamics)
+# add_subdirectory(examples/codesByTopic/TRTdynamics)
 # showCases
 add_subdirectory(examples/showCases/aneurysm)
 if(ENABLE_MPI)

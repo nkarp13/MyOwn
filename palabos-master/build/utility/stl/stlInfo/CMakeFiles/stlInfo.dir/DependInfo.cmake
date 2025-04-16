@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlInfo/stlInfo.cpp" "utility/stl/stlInfo/CMakeFiles/stlInfo.dir/stlInfo.cpp.o" "gcc" "utility/stl/stlInfo/CMakeFiles/stlInfo.dir/stlInfo.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlInfo/stlInfo.cpp" "utility/stl/stlInfo/CMakeFiles/stlInfo.dir/stlInfo.cpp.o" "gcc" "utility/stl/stlInfo/CMakeFiles/stlInfo.dir/stlInfo.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

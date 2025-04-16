@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/rectangularChannel3d/rectangularChannel3d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/rectangularChannel3d/rectangularChannel3d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/rectangularChannel3d/rectangularChannel3d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/rectangularChannel3d/rectangularChannel3d.pdb"
   "CMakeFiles/rectangularChannel3d.dir/rectangularChannel3D.cpp.o"
   "CMakeFiles/rectangularChannel3d.dir/rectangularChannel3D.cpp.o.d"
 )

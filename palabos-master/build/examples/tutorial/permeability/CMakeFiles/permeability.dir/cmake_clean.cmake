@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/tutorial/permeability/permeability"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/tutorial/permeability/permeability.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/tutorial/permeability/permeability"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/tutorial/permeability/permeability.pdb"
   "CMakeFiles/permeability.dir/permeability.cpp.o"
   "CMakeFiles/permeability.dir/permeability.cpp.o.d"
 )

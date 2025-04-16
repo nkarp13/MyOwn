@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/tutorial/tutorial_1/tutorial_1_2.cpp" "examples/tutorial/tutorial_1/CMakeFiles/tutorial_1_2.dir/tutorial_1_2.cpp.o" "gcc" "examples/tutorial/tutorial_1/CMakeFiles/tutorial_1_2.dir/tutorial_1_2.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/tutorial/tutorial_1/tutorial_1_2.cpp" "examples/tutorial/tutorial_1/CMakeFiles/tutorial_1_2.dir/tutorial_1_2.cpp.o" "gcc" "examples/tutorial/tutorial_1/CMakeFiles/tutorial_1_2.dir/tutorial_1_2.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

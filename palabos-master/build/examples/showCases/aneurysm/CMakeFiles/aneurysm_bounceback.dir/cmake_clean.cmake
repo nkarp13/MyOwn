@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/aneurysm/aneurysm_bounceback"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/aneurysm/aneurysm_bounceback.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/aneurysm/aneurysm_bounceback"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/aneurysm/aneurysm_bounceback.pdb"
   "CMakeFiles/aneurysm_bounceback.dir/aneurysm_bounceback.cpp.o"
   "CMakeFiles/aneurysm_bounceback.dir/aneurysm_bounceback.cpp.o.d"
 )

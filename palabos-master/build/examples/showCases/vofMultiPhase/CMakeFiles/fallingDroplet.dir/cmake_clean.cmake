@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/vofMultiPhase/fallingDroplet"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/vofMultiPhase/fallingDroplet.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/vofMultiPhase/fallingDroplet"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/vofMultiPhase/fallingDroplet.pdb"
   "CMakeFiles/fallingDroplet.dir/fallingDroplet.cpp.o"
   "CMakeFiles/fallingDroplet.dir/fallingDroplet.cpp.o.d"
 )

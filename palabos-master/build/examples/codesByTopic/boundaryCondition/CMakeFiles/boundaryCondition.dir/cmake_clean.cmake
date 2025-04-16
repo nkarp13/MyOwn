@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/boundaryCondition/boundaryCondition"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/boundaryCondition/boundaryCondition.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/boundaryCondition/boundaryCondition"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/boundaryCondition/boundaryCondition.pdb"
   "CMakeFiles/boundaryCondition.dir/neumannOutlets.cpp.o"
   "CMakeFiles/boundaryCondition.dir/neumannOutlets.cpp.o.d"
 )

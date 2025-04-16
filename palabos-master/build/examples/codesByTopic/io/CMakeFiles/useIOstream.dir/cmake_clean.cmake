@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/io/useIOstream"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/io/useIOstream.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/io/useIOstream"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/io/useIOstream.pdb"
   "CMakeFiles/useIOstream.dir/useIOstream.cpp.o"
   "CMakeFiles/useIOstream.dir/useIOstream.cpp.o.d"
 )

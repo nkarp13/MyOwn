@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/asinariDynamics/poiseuille_asinariDynamics"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/asinariDynamics/poiseuille_asinariDynamics.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/asinariDynamics/poiseuille_asinariDynamics"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/asinariDynamics/poiseuille_asinariDynamics.pdb"
   "CMakeFiles/poiseuille_asinariDynamics.dir/poiseuille.cpp.o"
   "CMakeFiles/poiseuille_asinariDynamics.dir/poiseuille.cpp.o.d"
 )

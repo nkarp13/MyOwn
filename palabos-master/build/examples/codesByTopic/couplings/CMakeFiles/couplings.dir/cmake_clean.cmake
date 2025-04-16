@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/couplings/couplings"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/couplings/couplings.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/couplings/couplings"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/couplings/couplings.pdb"
   "CMakeFiles/couplings.dir/coupleVelocityField.cpp.o"
   "CMakeFiles/couplings.dir/coupleVelocityField.cpp.o.d"
 )

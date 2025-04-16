@@ -104,15 +104,20 @@ void initializeParameters()
     blocks_yDir = 2;
     blocks_zDir = 2;
 
-    max_iter = 20000;
-    nx = 251;
-    ny = 151;
-    nz = 151;
+    // max_iter = 20000;
+    max_iter = 2000;
+    // nx = 251;
+    // ny = 151;
+    // nz = 151;
+    nx = 101;
+    ny = 61;
+    nz = 61;
+
 
     cx0 = (plint)(nx * 0.29);
     cy0 = ny / 2;
     cz0 = nz / 2;
-    // radius = 25.;
+    radius = 10.;
 
     // delta   = 5.;
     // sigma   = 1.e-4;

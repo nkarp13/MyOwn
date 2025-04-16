@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/tutorial/tutorial_2/tutorial_2_2"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/tutorial/tutorial_2/tutorial_2_2.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/tutorial/tutorial_2/tutorial_2_2"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/tutorial/tutorial_2/tutorial_2_2.pdb"
   "CMakeFiles/tutorial_2_2.dir/tutorial_2_2.cpp.o"
   "CMakeFiles/tutorial_2_2.dir/tutorial_2_2.cpp.o.d"
 )

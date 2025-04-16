@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/generalExternalFlow/generalExternalFlow.cpp" "examples/showCases/generalExternalFlow/CMakeFiles/generalExternalFlow.dir/generalExternalFlow.cpp.o" "gcc" "examples/showCases/generalExternalFlow/CMakeFiles/generalExternalFlow.dir/generalExternalFlow.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/generalExternalFlow/generalExternalFlow.cpp" "examples/showCases/generalExternalFlow/CMakeFiles/generalExternalFlow.dir/generalExternalFlow.cpp.o" "gcc" "examples/showCases/generalExternalFlow/CMakeFiles/generalExternalFlow.dir/generalExternalFlow.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

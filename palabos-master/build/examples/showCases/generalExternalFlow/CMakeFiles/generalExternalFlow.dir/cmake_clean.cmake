@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/generalExternalFlow/generalExternalFlow"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/generalExternalFlow/generalExternalFlow.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/generalExternalFlow/generalExternalFlow"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/generalExternalFlow/generalExternalFlow.pdb"
   "CMakeFiles/generalExternalFlow.dir/generalExternalFlow.cpp.o"
   "CMakeFiles/generalExternalFlow.dir/generalExternalFlow.cpp.o.d"
 )

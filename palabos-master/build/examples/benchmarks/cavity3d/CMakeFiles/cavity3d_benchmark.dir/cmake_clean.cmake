@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/benchmarks/cavity3d/cavity3d_benchmark"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/benchmarks/cavity3d/cavity3d_benchmark.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/benchmarks/cavity3d/cavity3d_benchmark"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/benchmarks/cavity3d/cavity3d_benchmark.pdb"
   "CMakeFiles/cavity3d_benchmark.dir/cavity3d.cpp.o"
   "CMakeFiles/cavity3d_benchmark.dir/cavity3d.cpp.o.d"
 )

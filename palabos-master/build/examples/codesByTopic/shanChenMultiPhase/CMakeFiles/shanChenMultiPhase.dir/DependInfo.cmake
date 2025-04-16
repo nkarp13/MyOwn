@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/shanChenMultiPhase/segregation2D.cpp" "examples/codesByTopic/shanChenMultiPhase/CMakeFiles/shanChenMultiPhase.dir/segregation2D.cpp.o" "gcc" "examples/codesByTopic/shanChenMultiPhase/CMakeFiles/shanChenMultiPhase.dir/segregation2D.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/shanChenMultiPhase/segregation2D.cpp" "examples/codesByTopic/shanChenMultiPhase/CMakeFiles/shanChenMultiPhase.dir/segregation2D.cpp.o" "gcc" "examples/codesByTopic/shanChenMultiPhase/CMakeFiles/shanChenMultiPhase.dir/segregation2D.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

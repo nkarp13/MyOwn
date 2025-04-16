@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/unsignedTypes/unsignedTypes"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/unsignedTypes/unsignedTypes.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/unsignedTypes/unsignedTypes"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/unsignedTypes/unsignedTypes.pdb"
   "CMakeFiles/unsignedTypes.dir/unsignedTypes.cpp.o"
   "CMakeFiles/unsignedTypes.dir/unsignedTypes.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/cylinder2d/cylinder2d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/cylinder2d/cylinder2d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/cylinder2d/cylinder2d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/cylinder2d/cylinder2d.pdb"
   "CMakeFiles/cylinder2d.dir/cylinder2d.cpp.o"
   "CMakeFiles/cylinder2d.dir/cylinder2d.cpp.o.d"
 )

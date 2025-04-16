@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/externalMacroscopicVariables/cavity3d_externalMacroscopicVariables"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/externalMacroscopicVariables/cavity3d_externalMacroscopicVariables.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/externalMacroscopicVariables/cavity3d_externalMacroscopicVariables"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/externalMacroscopicVariables/cavity3d_externalMacroscopicVariables.pdb"
   "CMakeFiles/cavity3d_externalMacroscopicVariables.dir/cavity3d.cpp.o"
   "CMakeFiles/cavity3d_externalMacroscopicVariables.dir/cavity3d.cpp.o.d"
 )

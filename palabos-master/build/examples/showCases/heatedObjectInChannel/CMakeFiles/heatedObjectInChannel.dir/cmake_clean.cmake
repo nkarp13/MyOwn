@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/heatedObjectInChannel/heatedObjectInChannel"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/heatedObjectInChannel/heatedObjectInChannel.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/heatedObjectInChannel/heatedObjectInChannel"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/heatedObjectInChannel/heatedObjectInChannel.pdb"
   "CMakeFiles/heatedObjectInChannel.dir/heatedObjectInChannel.cpp.o"
   "CMakeFiles/heatedObjectInChannel.dir/heatedObjectInChannel.cpp.o.d"
 )

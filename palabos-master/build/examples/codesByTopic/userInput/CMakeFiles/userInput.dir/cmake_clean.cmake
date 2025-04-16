@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/userInput/userInput"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/userInput/userInput.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/userInput/userInput"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/userInput/userInput.pdb"
   "CMakeFiles/userInput.dir/readParameters.cpp.o"
   "CMakeFiles/userInput.dir/readParameters.cpp.o.d"
 )

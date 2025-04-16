@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/partialBounceBack/partialBounceBack"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/partialBounceBack/partialBounceBack.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/partialBounceBack/partialBounceBack"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/partialBounceBack/partialBounceBack.pdb"
   "CMakeFiles/partialBounceBack.dir/fibrinolysis.cpp.o"
   "CMakeFiles/partialBounceBack.dir/fibrinolysis.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlProjectedArea/stlProjectedArea"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlProjectedArea/stlProjectedArea.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlProjectedArea/stlProjectedArea"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlProjectedArea/stlProjectedArea.pdb"
   "CMakeFiles/stlProjectedArea.dir/stlProjectedArea.cpp.o"
   "CMakeFiles/stlProjectedArea.dir/stlProjectedArea.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/vtk/plb2vtk2D/plb2vtk2D"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/vtk/plb2vtk2D/plb2vtk2D.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/vtk/plb2vtk2D/plb2vtk2D"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/vtk/plb2vtk2D/plb2vtk2D.pdb"
   "CMakeFiles/plb2vtk2D.dir/plb2vtk2D.cpp.o"
   "CMakeFiles/plb2vtk2D.dir/plb2vtk2D.cpp.o.d"
 )

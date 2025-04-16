@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/scalarField/scalarField2d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/scalarField/scalarField2d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/scalarField/scalarField2d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/scalarField/scalarField2d.pdb"
   "CMakeFiles/scalarField2d.dir/scalarField2d.cpp.o"
   "CMakeFiles/scalarField2d.dir/scalarField2d.cpp.o.d"
 )

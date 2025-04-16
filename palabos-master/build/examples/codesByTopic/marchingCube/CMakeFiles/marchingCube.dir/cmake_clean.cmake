@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/marchingCube/marchingCube"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/marchingCube/marchingCube.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/marchingCube/marchingCube"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/marchingCube/marchingCube.pdb"
   "CMakeFiles/marchingCube.dir/marchingCube.cpp.o"
   "CMakeFiles/marchingCube.dir/marchingCube.cpp.o.d"
 )

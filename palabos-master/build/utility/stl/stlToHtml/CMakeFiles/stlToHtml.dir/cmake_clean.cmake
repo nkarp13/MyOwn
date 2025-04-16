@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlToHtml/stlToHtml"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlToHtml/stlToHtml.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlToHtml/stlToHtml"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlToHtml/stlToHtml.pdb"
   "CMakeFiles/stlToHtml.dir/stlToHtml.cpp.o"
   "CMakeFiles/stlToHtml.dir/stlToHtml.cpp.o.d"
 )

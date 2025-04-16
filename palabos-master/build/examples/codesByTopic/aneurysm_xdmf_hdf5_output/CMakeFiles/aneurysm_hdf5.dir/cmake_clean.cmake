@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/aneurysm_xdmf_hdf5_output/aneurysm_hdf5"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/aneurysm_xdmf_hdf5_output/aneurysm_hdf5.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/aneurysm_xdmf_hdf5_output/aneurysm_hdf5"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/aneurysm_xdmf_hdf5_output/aneurysm_hdf5.pdb"
   "CMakeFiles/aneurysm_hdf5.dir/aneurysm.cpp.o"
   "CMakeFiles/aneurysm_hdf5.dir/aneurysm.cpp.o.d"
 )

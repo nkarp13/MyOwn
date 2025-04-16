@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/revoxelize/revoxelize"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/revoxelize/revoxelize.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/revoxelize/revoxelize"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/revoxelize/revoxelize.pdb"
   "CMakeFiles/revoxelize.dir/revoxelize.cpp.o"
   "CMakeFiles/revoxelize.dir/revoxelize.cpp.o.d"
 )

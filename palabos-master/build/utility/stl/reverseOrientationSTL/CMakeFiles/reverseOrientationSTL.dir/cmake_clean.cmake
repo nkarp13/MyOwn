@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/reverseOrientationSTL/reverseOrientationSTL"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/reverseOrientationSTL/reverseOrientationSTL.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/reverseOrientationSTL/reverseOrientationSTL"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/reverseOrientationSTL/reverseOrientationSTL.pdb"
   "CMakeFiles/reverseOrientationSTL.dir/reverseOrientationSTL.cpp.o"
   "CMakeFiles/reverseOrientationSTL.dir/reverseOrientationSTL.cpp.o.d"
 )

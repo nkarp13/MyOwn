@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/linearAlgebra/linearAlgebra"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/linearAlgebra/linearAlgebra.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/linearAlgebra/linearAlgebra"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/linearAlgebra/linearAlgebra.pdb"
   "CMakeFiles/linearAlgebra.dir/linearAlgebra.cpp.o"
   "CMakeFiles/linearAlgebra.dir/linearAlgebra.cpp.o.d"
 )

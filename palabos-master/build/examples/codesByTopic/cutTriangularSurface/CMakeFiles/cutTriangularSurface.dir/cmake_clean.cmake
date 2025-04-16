@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/cutTriangularSurface/cutTriangularSurface"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/cutTriangularSurface/cutTriangularSurface.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/cutTriangularSurface/cutTriangularSurface"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/cutTriangularSurface/cutTriangularSurface.pdb"
   "CMakeFiles/cutTriangularSurface.dir/cutTriangularSurface.cpp.o"
   "CMakeFiles/cutTriangularSurface.dir/cutTriangularSurface.cpp.o.d"
 )

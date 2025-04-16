@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/smagorinskyModel/smagorinskyModel"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/smagorinskyModel/smagorinskyModel.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/smagorinskyModel/smagorinskyModel"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/smagorinskyModel/smagorinskyModel.pdb"
   "CMakeFiles/smagorinskyModel.dir/smagorinskyCavity3D.cpp.o"
   "CMakeFiles/smagorinskyModel.dir/smagorinskyCavity3D.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/aneurysm/aneurysm"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/aneurysm/aneurysm.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/aneurysm/aneurysm"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/aneurysm/aneurysm.pdb"
   "CMakeFiles/aneurysm.dir/aneurysm.cpp.o"
   "CMakeFiles/aneurysm.dir/aneurysm.cpp.o.d"
 )

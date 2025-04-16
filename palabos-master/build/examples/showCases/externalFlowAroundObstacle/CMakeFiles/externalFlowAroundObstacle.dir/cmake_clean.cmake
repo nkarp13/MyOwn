@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/externalFlowAroundObstacle/externalFlowAroundObstacle"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/externalFlowAroundObstacle/externalFlowAroundObstacle.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/externalFlowAroundObstacle/externalFlowAroundObstacle"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/externalFlowAroundObstacle/externalFlowAroundObstacle.pdb"
   "CMakeFiles/externalFlowAroundObstacle.dir/externalFlowAroundObstacle.cpp.o"
   "CMakeFiles/externalFlowAroundObstacle.dir/externalFlowAroundObstacle.cpp.o.d"
 )

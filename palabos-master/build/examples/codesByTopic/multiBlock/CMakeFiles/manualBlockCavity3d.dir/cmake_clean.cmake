@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/multiBlock/manualBlockCavity3d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/multiBlock/manualBlockCavity3d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/multiBlock/manualBlockCavity3d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/multiBlock/manualBlockCavity3d.pdb"
   "CMakeFiles/manualBlockCavity3d.dir/manualBlockCavity3d.cpp.o"
   "CMakeFiles/manualBlockCavity3d.dir/manualBlockCavity3d.cpp.o.d"
 )

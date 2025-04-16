@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/toBinarySTL/toBinarySTL"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/toBinarySTL/toBinarySTL.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/toBinarySTL/toBinarySTL"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/toBinarySTL/toBinarySTL.pdb"
   "CMakeFiles/toBinarySTL.dir/toBinarySTL.cpp.o"
   "CMakeFiles/toBinarySTL.dir/toBinarySTL.cpp.o.d"
 )

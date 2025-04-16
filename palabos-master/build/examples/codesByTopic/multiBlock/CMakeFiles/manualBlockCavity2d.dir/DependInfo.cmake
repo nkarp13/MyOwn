@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/multiBlock/manualBlockCavity2d.cpp" "examples/codesByTopic/multiBlock/CMakeFiles/manualBlockCavity2d.dir/manualBlockCavity2d.cpp.o" "gcc" "examples/codesByTopic/multiBlock/CMakeFiles/manualBlockCavity2d.dir/manualBlockCavity2d.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/multiBlock/manualBlockCavity2d.cpp" "examples/codesByTopic/multiBlock/CMakeFiles/manualBlockCavity2d.dir/manualBlockCavity2d.cpp.o" "gcc" "examples/codesByTopic/multiBlock/CMakeFiles/manualBlockCavity2d.dir/manualBlockCavity2d.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

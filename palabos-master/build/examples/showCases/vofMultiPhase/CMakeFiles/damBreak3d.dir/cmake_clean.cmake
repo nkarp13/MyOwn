@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/vofMultiPhase/damBreak3d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/vofMultiPhase/damBreak3d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/vofMultiPhase/damBreak3d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/vofMultiPhase/damBreak3d.pdb"
   "CMakeFiles/damBreak3d.dir/damBreak3d.cpp.o"
   "CMakeFiles/damBreak3d.dir/damBreak3d.cpp.o.d"
 )

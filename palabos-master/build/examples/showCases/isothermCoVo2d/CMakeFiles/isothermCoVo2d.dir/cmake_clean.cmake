@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/isothermCoVo2d/isothermCoVo2d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/isothermCoVo2d/isothermCoVo2d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/isothermCoVo2d/isothermCoVo2d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/isothermCoVo2d/isothermCoVo2d.pdb"
   "CMakeFiles/isothermCoVo2d.dir/isothermCoVo2d.cpp.o"
   "CMakeFiles/isothermCoVo2d.dir/isothermCoVo2d.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlCheck/stlCheck"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlCheck/stlCheck.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlCheck/stlCheck"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlCheck/stlCheck.pdb"
   "CMakeFiles/stlCheck.dir/stlCheck.cpp.o"
   "CMakeFiles/stlCheck.dir/stlCheck.cpp.o.d"
 )

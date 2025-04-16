@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/mergeSTL/mergeSTL"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/mergeSTL/mergeSTL.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/mergeSTL/mergeSTL"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/mergeSTL/mergeSTL.pdb"
   "CMakeFiles/mergeSTL.dir/mergeSTL.cpp.o"
   "CMakeFiles/mergeSTL.dir/mergeSTL.cpp.o.d"
 )

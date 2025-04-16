@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/cavity3d/cavity3d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/cavity3d/cavity3d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/cavity3d/cavity3d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/cavity3d/cavity3d.pdb"
   "CMakeFiles/cavity3d.dir/cavity3d.cpp.o"
   "CMakeFiles/cavity3d.dir/cavity3d.cpp.o.d"
 )

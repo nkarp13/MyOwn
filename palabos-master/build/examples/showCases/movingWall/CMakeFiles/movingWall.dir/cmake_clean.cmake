@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/movingWall/movingWall"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/movingWall/movingWall.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/movingWall/movingWall"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/movingWall/movingWall.pdb"
   "CMakeFiles/movingWall.dir/movingWall.cpp.o"
   "CMakeFiles/movingWall.dir/movingWall.cpp.o.d"
 )

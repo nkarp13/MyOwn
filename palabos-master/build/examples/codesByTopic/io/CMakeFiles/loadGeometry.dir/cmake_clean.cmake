@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/io/loadGeometry"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/io/loadGeometry.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/io/loadGeometry"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/io/loadGeometry.pdb"
   "CMakeFiles/loadGeometry.dir/loadGeometry.cpp.o"
   "CMakeFiles/loadGeometry.dir/loadGeometry.cpp.o.d"
 )

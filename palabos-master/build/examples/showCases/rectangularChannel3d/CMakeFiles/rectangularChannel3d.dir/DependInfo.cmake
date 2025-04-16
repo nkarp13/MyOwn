@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/rectangularChannel3d/rectangularChannel3D.cpp" "examples/showCases/rectangularChannel3d/CMakeFiles/rectangularChannel3d.dir/rectangularChannel3D.cpp.o" "gcc" "examples/showCases/rectangularChannel3d/CMakeFiles/rectangularChannel3d.dir/rectangularChannel3D.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/rectangularChannel3d/rectangularChannel3D.cpp" "examples/showCases/rectangularChannel3d/CMakeFiles/rectangularChannel3d.dir/rectangularChannel3D.cpp.o" "gcc" "examples/showCases/rectangularChannel3d/CMakeFiles/rectangularChannel3d.dir/rectangularChannel3D.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

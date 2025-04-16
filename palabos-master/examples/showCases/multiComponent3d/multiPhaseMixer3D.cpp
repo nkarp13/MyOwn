@@ -275,14 +275,19 @@ int main(int argc, char *argv[])
     plbInit(&argc, &argv);
     global::directories().setOutputDir(outDir);
 
+    pcout << "MPI rank: " << global::mpi().getRank()
+    << " of " << global::mpi().getSize() << std::endl;
+
     const T omega1 = 1.0;
     const T omega2 = 1.0;
     const plint nx = 75;
     const plint ny = 75;
     const plint nz = 75;
     const T G = 2.0;
-    T force = 0.0;  // We neglect gravity.
-    const plint maxIter = 40000;
+    T force = 0.0;  // We neglect gravity. 
+    const plint maxIter = 20000;
+    // const plint maxIter = 1000;
+
     const plint saveIter = 100;
     const plint statIter = 50;
 
@@ -295,7 +300,7 @@ int main(int argc, char *argv[])
     // Use regularized BGK dynamics to improve numerical stability (but note that
     //   BGK dynamics works well too).
     MultiBlockLattice3D<T, DESCRIPTOR> fluid1(
-        nx, ny, nz, new RegularizedBGKdynamics<T, DESCRIPTOR>(omega1));
+        nx, ny, nz, new RegularizedBGKdynamics<T, DESCRIPTOR>(omega1));        
     bool incompressibleModel1 = false;
     defineDynamics(fluid1, fluid1.getBoundingBox(), new BounceBack<T, DESCRIPTOR>());
     defineDynamics(

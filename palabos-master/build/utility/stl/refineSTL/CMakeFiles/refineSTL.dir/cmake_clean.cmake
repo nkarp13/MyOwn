@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/refineSTL/refineSTL"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/refineSTL/refineSTL.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/refineSTL/refineSTL"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/refineSTL/refineSTL.pdb"
   "CMakeFiles/refineSTL.dir/refineSTL.cpp.o"
   "CMakeFiles/refineSTL.dir/refineSTL.cpp.o.d"
 )

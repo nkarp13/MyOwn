@@ -1,4 +1,4 @@
-# Install script for directory: /Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/isothermCoVo2d
+# Install script for directory: /Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/isothermCoVo2d
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,3 +37,9 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/usr/bin/objdump")
 endif()
 
+string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
+       "${CMAKE_INSTALL_MANIFEST_FILES}")
+if(CMAKE_INSTALL_LOCAL_ONLY)
+  file(WRITE "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/build/examples/showCases/isothermCoVo2d/install_local_manifest.txt"
+     "${CMAKE_INSTALL_MANIFEST_CONTENT}")
+endif()

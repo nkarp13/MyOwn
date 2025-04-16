@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/cutTriangularSurface/cutTriangularSurface.cpp" "examples/codesByTopic/cutTriangularSurface/CMakeFiles/cutTriangularSurface.dir/cutTriangularSurface.cpp.o" "gcc" "examples/codesByTopic/cutTriangularSurface/CMakeFiles/cutTriangularSurface.dir/cutTriangularSurface.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/cutTriangularSurface/cutTriangularSurface.cpp" "examples/codesByTopic/cutTriangularSurface/CMakeFiles/cutTriangularSurface.dir/cutTriangularSurface.cpp.o" "gcc" "examples/codesByTopic/cutTriangularSurface/CMakeFiles/cutTriangularSurface.dir/cutTriangularSurface.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

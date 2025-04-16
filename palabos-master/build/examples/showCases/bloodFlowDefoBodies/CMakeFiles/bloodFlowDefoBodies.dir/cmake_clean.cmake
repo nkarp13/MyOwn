@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/bloodFlowDefoBodies/bloodFlowDefoBodies"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/bloodFlowDefoBodies/bloodFlowDefoBodies.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/bloodFlowDefoBodies/bloodFlowDefoBodies"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/bloodFlowDefoBodies/bloodFlowDefoBodies.pdb"
   "CMakeFiles/bloodFlowDefoBodies.dir/bloodFlowDefoBodies.cpp.o"
   "CMakeFiles/bloodFlowDefoBodies.dir/bloodFlowDefoBodies.cpp.o.d"
 )

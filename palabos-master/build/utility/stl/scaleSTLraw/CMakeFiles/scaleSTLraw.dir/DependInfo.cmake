@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/scaleSTLraw/scaleSTLraw.cpp" "utility/stl/scaleSTLraw/CMakeFiles/scaleSTLraw.dir/scaleSTLraw.cpp.o" "gcc" "utility/stl/scaleSTLraw/CMakeFiles/scaleSTLraw.dir/scaleSTLraw.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/scaleSTLraw/scaleSTLraw.cpp" "utility/stl/scaleSTLraw/CMakeFiles/scaleSTLraw.dir/scaleSTLraw.cpp.o" "gcc" "utility/stl/scaleSTLraw/CMakeFiles/scaleSTLraw.dir/scaleSTLraw.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

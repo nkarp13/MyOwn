@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/gridRefinement2d/dipole.cpp" "examples/showCases/gridRefinement2d/CMakeFiles/gridRefinement2d.dir/dipole.cpp.o" "gcc" "examples/showCases/gridRefinement2d/CMakeFiles/gridRefinement2d.dir/dipole.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/gridRefinement2d/dipole.cpp" "examples/showCases/gridRefinement2d/CMakeFiles/gridRefinement2d.dir/dipole.cpp.o" "gcc" "examples/showCases/gridRefinement2d/CMakeFiles/gridRefinement2d.dir/dipole.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

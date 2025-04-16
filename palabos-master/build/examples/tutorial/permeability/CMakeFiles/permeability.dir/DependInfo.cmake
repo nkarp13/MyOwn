@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/tutorial/permeability/permeability.cpp" "examples/tutorial/permeability/CMakeFiles/permeability.dir/permeability.cpp.o" "gcc" "examples/tutorial/permeability/CMakeFiles/permeability.dir/permeability.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/tutorial/permeability/permeability.cpp" "examples/tutorial/permeability/CMakeFiles/permeability.dir/permeability.cpp.o" "gcc" "examples/tutorial/permeability/CMakeFiles/permeability.dir/permeability.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

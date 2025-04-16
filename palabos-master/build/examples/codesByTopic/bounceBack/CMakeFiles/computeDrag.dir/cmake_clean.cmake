@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/bounceBack/computeDrag"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/bounceBack/computeDrag.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/bounceBack/computeDrag"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/bounceBack/computeDrag.pdb"
   "CMakeFiles/computeDrag.dir/computeDrag.cpp.o"
   "CMakeFiles/computeDrag.dir/computeDrag.cpp.o.d"
 )

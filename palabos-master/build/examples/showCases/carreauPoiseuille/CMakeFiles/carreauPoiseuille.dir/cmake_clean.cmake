@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/carreauPoiseuille/carreauPoiseuille"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/carreauPoiseuille/carreauPoiseuille.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/carreauPoiseuille/carreauPoiseuille"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/carreauPoiseuille/carreauPoiseuille.pdb"
   "CMakeFiles/carreauPoiseuille.dir/carreauPoiseuille.cpp.o"
   "CMakeFiles/carreauPoiseuille.dir/carreauPoiseuille.cpp.o.d"
 )

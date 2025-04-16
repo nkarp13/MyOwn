@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/dynamicsInfo/cylinder2d_dynamicsInfo"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/dynamicsInfo/cylinder2d_dynamicsInfo.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/dynamicsInfo/cylinder2d_dynamicsInfo"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/dynamicsInfo/cylinder2d_dynamicsInfo.pdb"
   "CMakeFiles/cylinder2d_dynamicsInfo.dir/cylinder2d.cpp.o"
   "CMakeFiles/cylinder2d_dynamicsInfo.dir/cylinder2d.cpp.o.d"
 )

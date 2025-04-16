@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/dsl3d/dsl3d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/dsl3d/dsl3d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/dsl3d/dsl3d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/dsl3d/dsl3d.pdb"
   "CMakeFiles/dsl3d.dir/dsl3d.cpp.o"
   "CMakeFiles/dsl3d.dir/dsl3d.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/randomNumbers/randomNumbers"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/randomNumbers/randomNumbers.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/randomNumbers/randomNumbers"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/randomNumbers/randomNumbers.pdb"
   "CMakeFiles/randomNumbers.dir/randomNumbers.cpp.o"
   "CMakeFiles/randomNumbers.dir/randomNumbers.cpp.o.d"
 )

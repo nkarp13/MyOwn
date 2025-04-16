@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/multiComponent3d/multiPhaseMixer3D"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/multiComponent3d/multiPhaseMixer3D.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/multiComponent3d/multiPhaseMixer3D"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/multiComponent3d/multiPhaseMixer3D.pdb"
   "CMakeFiles/multiPhaseMixer3D.dir/multiPhaseMixer3D.cpp.o"
   "CMakeFiles/multiPhaseMixer3D.dir/multiPhaseMixer3D.cpp.o.d"
 )

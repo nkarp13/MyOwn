@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlShadowArea/stlShadowArea"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlShadowArea/stlShadowArea.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlShadowArea/stlShadowArea"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlShadowArea/stlShadowArea.pdb"
   "CMakeFiles/stlShadowArea.dir/stlShadowArea.cpp.o"
   "CMakeFiles/stlShadowArea.dir/stlShadowArea.cpp.o.d"
 )

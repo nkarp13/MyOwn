@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/particlesInCone/particlesInCone.cpp" "examples/showCases/particlesInCone/CMakeFiles/particlesInCone.dir/particlesInCone.cpp.o" "gcc" "examples/showCases/particlesInCone/CMakeFiles/particlesInCone.dir/particlesInCone.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/particlesInCone/particlesInCone.cpp" "examples/showCases/particlesInCone/CMakeFiles/particlesInCone.dir/particlesInCone.cpp.o" "gcc" "examples/showCases/particlesInCone/CMakeFiles/particlesInCone.dir/particlesInCone.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

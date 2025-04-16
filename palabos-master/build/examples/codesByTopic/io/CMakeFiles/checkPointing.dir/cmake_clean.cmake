@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/io/checkPointing"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/io/checkPointing.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/io/checkPointing"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/io/checkPointing.pdb"
   "CMakeFiles/checkPointing.dir/checkPointing.cpp.o"
   "CMakeFiles/checkPointing.dir/checkPointing.cpp.o.d"
 )

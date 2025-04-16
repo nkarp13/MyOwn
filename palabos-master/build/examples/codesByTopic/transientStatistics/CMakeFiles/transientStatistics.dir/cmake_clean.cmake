@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/transientStatistics/transientStatistics"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/transientStatistics/transientStatistics.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/transientStatistics/transientStatistics"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/transientStatistics/transientStatistics.pdb"
   "CMakeFiles/transientStatistics.dir/cavity3d.cpp.o"
   "CMakeFiles/transientStatistics.dir/cavity3d.cpp.o.d"
 )

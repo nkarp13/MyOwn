@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlInfo/stlInfo"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/stlInfo/stlInfo.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlInfo/stlInfo"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/stlInfo/stlInfo.pdb"
   "CMakeFiles/stlInfo.dir/stlInfo.cpp.o"
   "CMakeFiles/stlInfo.dir/stlInfo.cpp.o.d"
 )

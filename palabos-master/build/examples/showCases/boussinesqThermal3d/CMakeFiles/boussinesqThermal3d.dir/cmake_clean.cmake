@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/boussinesqThermal3d/boussinesqThermal3d"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/boussinesqThermal3d/boussinesqThermal3d.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/boussinesqThermal3d/boussinesqThermal3d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/boussinesqThermal3d/boussinesqThermal3d.pdb"
   "CMakeFiles/boussinesqThermal3d.dir/rayleighBenard3D.cpp.o"
   "CMakeFiles/boussinesqThermal3d.dir/rayleighBenard3D.cpp.o.d"
 )

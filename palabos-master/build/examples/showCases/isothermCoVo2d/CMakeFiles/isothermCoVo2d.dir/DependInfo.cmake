@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/showCases/isothermCoVo2d/isothermCoVo2d.cpp" "examples/showCases/isothermCoVo2d/CMakeFiles/isothermCoVo2d.dir/isothermCoVo2d.cpp.o" "gcc" "examples/showCases/isothermCoVo2d/CMakeFiles/isothermCoVo2d.dir/isothermCoVo2d.cpp.o.d"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/showCases/isothermCoVo2d/isothermCoVo2d.cpp" "examples/showCases/isothermCoVo2d/CMakeFiles/isothermCoVo2d.dir/isothermCoVo2d.cpp.o" "gcc" "examples/showCases/isothermCoVo2d/CMakeFiles/isothermCoVo2d.dir/isothermCoVo2d.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

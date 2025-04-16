@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/dotList/dotList"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/dotList/dotList.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/dotList/dotList"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/dotList/dotList.pdb"
   "CMakeFiles/dotList.dir/cylinder2d.cpp.o"
   "CMakeFiles/dotList.dir/cylinder2d.cpp.o.d"
 )

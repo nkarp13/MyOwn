@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/dataAnalysis/dataAnalysis"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/dataAnalysis/dataAnalysis.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/dataAnalysis/dataAnalysis"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/dataAnalysis/dataAnalysis.pdb"
   "CMakeFiles/dataAnalysis.dir/cavity3d.cpp.o"
   "CMakeFiles/dataAnalysis.dir/cavity3d.cpp.o.d"
 )

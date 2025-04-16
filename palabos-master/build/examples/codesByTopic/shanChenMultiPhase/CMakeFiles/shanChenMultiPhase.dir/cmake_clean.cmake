@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/shanChenMultiPhase/shanChenMultiPhase"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/examples/codesByTopic/shanChenMultiPhase/shanChenMultiPhase.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/shanChenMultiPhase/shanChenMultiPhase"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/examples/codesByTopic/shanChenMultiPhase/shanChenMultiPhase.pdb"
   "CMakeFiles/shanChenMultiPhase.dir/segregation2D.cpp.o"
   "CMakeFiles/shanChenMultiPhase.dir/segregation2D.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/scaleSTLraw/scaleSTLraw"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/scaleSTLraw/scaleSTLraw.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/scaleSTLraw/scaleSTLraw"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/scaleSTLraw/scaleSTLraw.pdb"
   "CMakeFiles/scaleSTLraw.dir/scaleSTLraw.cpp.o"
   "CMakeFiles/scaleSTLraw.dir/scaleSTLraw.cpp.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/shiftSTLraw/shiftSTLraw"
-  "/Users/nikitakarpinskij/Downloads/palabos-master/utility/stl/shiftSTLraw/shiftSTLraw.pdb"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/shiftSTLraw/shiftSTLraw"
+  "/Users/vbva/Desktop/nikita/MyOwn/palabos-master/utility/stl/shiftSTLraw/shiftSTLraw.pdb"
   "CMakeFiles/shiftSTLraw.dir/shiftSTLraw.cpp.o"
   "CMakeFiles/shiftSTLraw.dir/shiftSTLraw.cpp.o.d"
 )
